@@ -1,5 +1,6 @@
 # cd_summer_26_mid
 experiment1.cpp should be the name of the file 
+experiment2.cpp (the code in this read me file is from my lab )
 
 
 #include <iostream>
